@@ -1,1 +1,1 @@
-code is in app.js
+code is in app.js/in src
